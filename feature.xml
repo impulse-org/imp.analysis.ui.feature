@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feature
       id="org.eclipse.imp.analysis.ui"
-      label="IMP Program Analysis UI"
+      label="%featureName"
       version="0.1.1"
-      provider-name="rfuhrer@watson.ibm.com">
+      provider-name="%providerName">
 
    <description url="http://dev.eclipse.org/imp">
       %description
