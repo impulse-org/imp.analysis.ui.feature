@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project name="runtimeCommon" basedir=".">
-    <property name="basews" value="${ws}"/>
-    <property name="baseos" value="${os}"/>
-    <property name="basearch" value="${arch}"/>
-    <property name="basenl" value="${nl}"/>
+<project name="imp.analysis.ui.common" basedir=".">
+    <fail message="Someone imported/invoked the feature's buildCommon.xml!!!"/>
 
     <!-- Compiler settings. -->
     <property name="javacFailOnError" value="true"/>
